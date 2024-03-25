@@ -1,6 +1,6 @@
 # Taco Parser 🌮
 
-Taco Parser is a C# .NET Core application where data is parsed from a CSV file to reference Taco Bell locations. That data is then used to calculate the distance between the two locations that are farthest apart.
+C# .NET Core application that parses CSV data to pinpoint Taco Bell locations and calculates the distance between the farthest locations, aiding regional managers in strategic planning and logistics optimization.
 
 ## This project demonstrates proficiency in:
 - C# programming
