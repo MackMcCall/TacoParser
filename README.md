@@ -38,5 +38,5 @@ C# .NET Core application that parses CSV data to pinpoint Taco Bell locations an
 
 ## Stay Connected:
 - Email: [mackmc9924@gmail.com](mailto:mackmc9924@gmail.com)
-- GitHub: [MackMcCall](https://github.com/MackMcCall)
+- GitHub: [Mack McCall](https://github.com/MackMcCall)
 - LinkedIn: [Mack McCall](https://www.linkedin.com/in/mack-mccall)
